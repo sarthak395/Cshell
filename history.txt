@@ -1,0 +1,34 @@
+cat ls.txt
+
+
+
+ls
+
+
+
+echo hello
+
+
+
+sort <
+
+
+
+sort < out.txt
+
+
+
+sort out.txt
+
+
+
+sort > out.txt
+
+sort < out.txt
+
+cat ls.txt
+cat out.txt
+discover
+discover "cd.c"
+discover "histor.
+discover test "history.c"
